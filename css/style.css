@@ -1,110 +1,111 @@
 *{
-  margin: 0;
-}
-
-body{
-  /*width: 100%;
-  height: 500px;*/
-  width: 1080px;
-  height: 100px;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-color: #575757;
+    margin: 0;
+  }
   
-}
-
-#contenedor {
-  width: 1080px;
-  margin: auto;
-}
-
-header{
-  background-color: #273a2d;
-  width: 1080px;
-  height: 100px;
-}
-
-header h1 {
-  text-align: center;
-  line-height: 100px;
-  color: #ffffff;
-  font-size: 5rem;
-  font-family: 'Rubik Distressed';
-  font-weight: lighter;
-  text-transform: capitalize;
-  text-align: center;
-  text-shadow: 3px 5px 5px rgb(18, 121, 58);
-}
-
-nav{
-  background-color: #00c6ab;
-  text-align: center;
-  /*width: 100%;
-  height: 30px;*/
-}
-
-nav ul li {
-  display: inline-block;
-  padding: 10px;
-}
-
-nav ul li a {
-  text-decoration: none;
-  font-family: 'Rubik';
-  font-size: 20px;
-  color: #ffffff;
-  text-shadow: 2px 2px 4px #000000;
-}
-
-nav ul li a:hover {
-  color: azure;
-}
-/*aside{
-  background-color: #ebe7b7;
-  width: 25%;
-  float: left;
-  height: 600px;
-  padding-left: 25px;
-  line-height: 95px;
-  overflow: hidden;
-  font-family: 'Rubik';
-  color: #273a2d;
-}*/
-section{
-  width: 100%;
-  height: 600px;
-  background-image: url(../img/yungas1.jpg);
-  float: right;
-  background-repeat: no-repeat;
-  background-size:cover;
+  body{
+    /*width: 100%;
+    height: 500px;*/
+    width: 1080px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: #575757;
+    
+  }
   
-}
-footer{
-  clear: both;
-  width: 1080px;
-  height: 50px;
-  background-color: #273a2d;
+  #contenedor {
+    width: 1080px;
+    margin: auto;
+  }
   
-}
-footer p {
-  font-size: 1rem;
-  text-align: center;
-  color: azure;
-  line-height: 20px;
-  font-family: 'Rubik';
-}
-/*img{
-  width: 100px;
-  height: 100PX;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  margin-left: 50px;
-  margin-right: 50px;
-  border-radius: 5%;
-  box-shadow: rgba(0, 0, 0, 0.123) 3px 5px 5px;
-  transition: all 0.15s;
-}
-img:hover{
-  transform: scale(1.5);
-}*/
-
+  header{
+    background-color: #273a2d;
+    width: 1080px;
+    height: 100px;
+  }
+  
+  header h1 {
+    text-align: center;
+    line-height: 100px;
+    color: #ffffff;
+    font-size: 5rem;
+    font-family: 'Rubik Distressed';
+    font-weight: lighter;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 3px 5px 5px rgb(18, 121, 58);
+  }
+  
+  nav{
+    background-color: #00c6ab;
+    text-align: center;
+    /*width: 100%;
+    height: 30px;*/
+  }
+  
+  nav ul li {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    font-family: 'Rubik';
+    font-size: 20px;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  
+  nav ul li a:hover {
+    color: azure;
+  }
+  /*aside{
+    background-color: #ebe7b7;
+    width: 25%;
+    float: left;
+    height: 600px;
+    padding-left: 25px;
+    line-height: 95px;
+    overflow: hidden;
+    font-family: 'Rubik';
+    color: #273a2d;
+  }*/
+  section{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/yungas1.jpg);
+    float: right;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+  }
+  footer{
+    clear: both;
+    width: 1080px;
+    height: 50px;
+    background-color: #273a2d;
+    
+  }
+  footer p {
+    font-size: 1rem;
+    text-align: center;
+    color: azure;
+    line-height: 20px;
+    font-family: 'Rubik';
+  }
+  /*img{
+    width: 100px;
+    height: 100PX;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5%;
+    box-shadow: rgba(0, 0, 0, 0.123) 3px 5px 5px;
+    transition: all 0.15s;
+  }
+  img:hover{
+    transform: scale(1.5);
+  }*/
+  
+  
